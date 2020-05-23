@@ -8,6 +8,8 @@
 - Simple slider to change pulsing speed
 - Settings menu to change various parameters, turn on or off lights, restart microcontroller
 - Atomatically finds out controllers IP address.
+## Screenshot
+![Solid color wheel](https://files.fm/thumb_show.php?i=jd8y3azt&view)
 ## Requires
 - [My LED controller](https://github.com/Fisers/esp8266-WiFi-Led-controller)
 - Android 4.0+
